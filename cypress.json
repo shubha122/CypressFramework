@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://palo-it.fitnetmanager.com/FitnetManager/",
+    "chromeWebSecurity":true,
+    "defaultCommandTimeout":30000,
+    "requestTimeout":20000,
+    "scrollBehavior": "nearest"
+}
